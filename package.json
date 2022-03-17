@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "pizza-api",
+  "description": "Pizza-API",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoureldenRihan2002/Pizza-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoureldenRihan2002/Pizza-API/issues"
+  },
+  "homepage": "https://github.com/NoureldenRihan2002/Pizza-API#readme"
+}
