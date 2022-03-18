@@ -4,28 +4,24 @@
       "id": 0,
       "name": "Pepperoni Pizza",
       "price": 5,
-      "tags": ["Halal"],
       "ingredients": ["Pepperoni", "Salsa", "Olives", "Cheese"]
     },
     {
       "id": 1,
       "name": "Margheritta Pizza",
       "price": 15,
-      "tags": ["Halal", "Vegeterian"],
       "ingredients": ["Salsa", "Cheese"]
     },
     {
       "id": 2,
       "name": "Chicken BBQ Pizza",
       "price": 10,
-      "tags": ["Halal"],
       "ingredients": ["Chicken", "BBQ Sauce", "Salsa", "Olives", "Cheese"]
     },
     {
       "id": 3,
       "name": "Chicken Ranch Pizza",
       "price": 25,
-      "tags": ["Halal"],
       "ingredients": [
         "Chicken",
         "Ranch Sauce",
