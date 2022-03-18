@@ -1,25 +1,25 @@
 {
   "pizzas": [
     {
-      "id": 0,
+      "id": 1,
       "name": "Pepperoni Pizza",
       "price": 5,
       "ingredients": ["Pepperoni", "Salsa", "Olives", "Cheese"]
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Margheritta Pizza",
       "price": 15,
       "ingredients": ["Salsa", "Cheese"]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Chicken BBQ Pizza",
       "price": 10,
       "ingredients": ["Chicken", "BBQ Sauce", "Salsa", "Olives", "Cheese"]
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Chicken Ranch Pizza",
       "price": 25,
       "ingredients": [
@@ -32,10 +32,24 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Mushroom Pizza",
       "price": 20,
       "ingredients": ["Mushrooms", "Salsa", "Olives", "Cheese"]
+    },
+    {
+      "id": 6,
+      "name": "Greek Pizza",
+      "price": 16,
+      "ingredients": [
+        "Garlic",
+        "Bell Pepper",
+        "Tomatoes",
+        "Red Onions",
+        "Salsa",
+        "Olives",
+        "Cheese"
+      ]
     }
   ]
 }
