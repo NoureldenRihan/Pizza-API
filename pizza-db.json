@@ -30,6 +30,12 @@
         "Olives",
         "Cheese"
       ]
+    },
+    {
+      "id": 4,
+      "name": "Mushroom Pizza",
+      "price": 20,
+      "ingredients": ["Mushrooms", "Salsa", "Olives", "Cheese"]
     }
   ]
 }
