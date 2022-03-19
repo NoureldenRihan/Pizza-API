@@ -4,24 +4,28 @@
       "id": 1,
       "name": "Pepperoni Pizza",
       "price": 5,
+      "tags": ["Original"],
       "ingredients": ["Pepperoni", "Salsa", "Olives", "Cheese"]
     },
     {
       "id": 2,
       "name": "Margheritta Pizza",
       "price": 15,
+      "tags": ["Original", "Vegan"],
       "ingredients": ["Salsa", "Cheese"]
     },
     {
       "id": 3,
       "name": "Chicken BBQ Pizza",
       "price": 10,
+      "tags": ["Original"],
       "ingredients": ["Chicken", "BBQ Sauce", "Salsa", "Olives", "Cheese"]
     },
     {
       "id": 4,
       "name": "Chicken Ranch Pizza",
       "price": 25,
+      "tags": ["Original"],
       "ingredients": [
         "Chicken",
         "Ranch Sauce",
@@ -35,17 +39,45 @@
       "id": 5,
       "name": "Mushroom Pizza",
       "price": 20,
+      "tags": ["Original", "Vegan"],
       "ingredients": ["Mushrooms", "Salsa", "Olives", "Cheese"]
     },
     {
       "id": 6,
       "name": "Greek Pizza",
       "price": 16,
+      "tags": ["Original", "Vegan"],
       "ingredients": [
         "Garlic",
         "Bell Pepper",
         "Tomatoes",
         "Red Onions",
+        "Salsa",
+        "Olives",
+        "Cheese"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Spicy Pepperoni Pizza",
+      "price": 22,
+      "tags": ["Spicy", "Vegan"],
+      "ingredients": [
+        "Pepperoni",
+        "Red Chilli Pepper",
+        "Salsa",
+        "Olives",
+        "Cheese"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chicken Chilli Pizza",
+      "price": 28,
+      "tags": ["Spicy"],
+      "ingredients": [
+        "Chicken",
+        "Red Chilli Pepper",
         "Salsa",
         "Olives",
         "Cheese"
