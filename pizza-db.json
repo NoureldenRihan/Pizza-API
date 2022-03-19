@@ -61,7 +61,7 @@
       "id": 7,
       "name": "Spicy Pepperoni Pizza",
       "price": 22,
-      "tags": ["Spicy", "Vegan"],
+      "tags": ["Spicy"],
       "ingredients": [
         "Pepperoni",
         "Red Chilli Pepper",
@@ -82,6 +82,13 @@
         "Olives",
         "Cheese"
       ]
+    },
+    {
+      "id": 9,
+      "name": "Chicken Chilli Pizza",
+      "price": 28,
+      "tags": ["Spicy"],
+      "ingredients": ["Shrimp", "lemon juice", "Salsa", "Garlic", "Cheese"]
     }
   ]
 }
