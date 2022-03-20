@@ -85,9 +85,9 @@
     },
     {
       "id": 9,
-      "name": "Chicken Chilli Pizza",
+      "name": "Shrimp Pizza",
       "price": 28,
-      "tags": ["Spicy"],
+      "tags": ["Original", "Seafood"],
       "ingredients": ["Shrimp", "lemon juice", "Salsa", "Garlic", "Cheese"]
     }
   ]
