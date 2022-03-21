@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "name": "Margheritta Pizza",
+      "name": "Margarita Pizza",
       "price": 15,
       "tags": ["Original", "Vegan"],
       "ingredients": ["Salsa", "Cheese"]
@@ -85,6 +85,13 @@
     },
     {
       "id": 9,
+      "name": "Shrimp Pizza",
+      "price": 28,
+      "tags": ["Original", "Seafood"],
+      "ingredients": ["Shrimp", "lemon juice", "Salsa", "Garlic", "Cheese"]
+    },
+    {
+      "id": 10,
       "name": "Shrimp Pizza",
       "price": 28,
       "tags": ["Original", "Seafood"],
