@@ -92,10 +92,10 @@
     },
     {
       "id": 10,
-      "name": "Shrimp Pizza",
-      "price": 28,
-      "tags": ["Original", "Seafood"],
-      "ingredients": ["Shrimp", "lemon juice", "Salsa", "Garlic", "Cheese"]
+      "name": "Hawaii Pizza",
+      "price": 10,
+      "tags": ["Original"],
+      "ingredients": ["pineapple ", "Salsa", "Cheese"]
     }
   ]
 }
